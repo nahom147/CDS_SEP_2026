@@ -4,7 +4,7 @@
 
 int main(){
 
-    int largest, smallest, i, ar[] = {24, 59, 23, 34, 56, 89, 69, 97, 21, 27};
+    int largest, smallest, i, ar[] = {145, 32, 678, 91, 456, 12, 890, 234, 567, 43, 999, 76, 321, 8, 765, 54, 432, 187, 654, 21};
 
     int size = sizeof(ar) / sizeof(ar[0]);
 
